@@ -1,0 +1,13 @@
+.About_main{
+   
+   height: 40vh;
+   width: 100%;
+    display: flex;
+    gap: 10%;
+}
+
+.div_sub{
+    
+    height: 40vh;
+    width: 40%;
+}

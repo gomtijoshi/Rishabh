@@ -1,0 +1,19 @@
+.Header{
+
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(81, 255, 0);
+    color: rgb(168, 43, 226);
+    text-align: center;
+    display: flex;
+    gap: 100px;
+
+    
+}
+.Header img{
+    height: 50px;
+    width: 50px;
+
+
+    
+}
